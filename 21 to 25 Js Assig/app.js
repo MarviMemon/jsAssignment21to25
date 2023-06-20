@@ -5,10 +5,6 @@
 // alert(merge);
 // document.write(merge);
 
-// const {
-//   clearWarnings,
-// } = require("react-native/Libraries/LogBox/Data/LogBoxData");
-
 //============Q2============
 // let userInput = prompt("inter your fvrt mobile name");
 // let len = userInput.length;
